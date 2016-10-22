@@ -63,12 +63,13 @@
   <project path="vendor/cmsdk" name="cm_platform_sdk" remote="rr" />
   <project path="packages/services/ThemeManagerService" name="android_packages_services_ThemeManagerService" remote="rr" />
   <project path="packages/apps/PackageInstaller" name="android_packages_apps_PackageInstaller" remote="rr" />
-  <project path="vendor/NUBIA/NX404H" name="sattarvoybek/device_nubia_nx404h_proprietary
-" remote="github" revision="cm-12.1" />
-  <project path="kernel/NUBIA/NX404H" name="sattarvoybek/kernel_nubia_nx404h
-" remote="github" revision="cm-12.1" />
-	 <project path="device/NUBIA/NX404H" name="sattarvoybek/device_nubia_nx404h
-" remote="github" revision="cm-12.1" />
+  <project path="device/qcom/common" name="CyanogenMod/android_device_qcom_common" remote="github" revision="cm-12.1" />
+  <project path="hardware/qcom/fm" name="CyanogenMod/android_hardware_qcom_fm" remote="github" revision="cm-12.1" />
+
+  <project path="kernel/NUBIA/NX404H" name="sattarvoybek/kernel_nubia_nx404h.git" remote="github" revision="cm-12.1" />
+  <project path="device/NUBIA/NX404H" name="sattarvoybek/device_nubia_nx404h.git" remote="github" revision="cm-12.1" />
+  <project path="vendor/NUBIA/NX404H" name="sattarvoybek/device_nubia_nx404h_proprietary.git" remote="github"revision="cm-12.1" />
+
 <!-- END RR -->
 
 <!-- BEGIN CYANOGENMOD -->
