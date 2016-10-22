@@ -20,6 +20,10 @@
   <remote  name="rr"
 	   fetch="https://github.com/ResurrectionRemix"
 	   revision="marshmallow" />
+	
+  <remote  name="sattarvoybek"
+	   fetch="https://github.com/sattarvoybek"
+	   revision="cm-12.1" />	
 
   <remote name="rr-d"
 	  fetch="https://github.com/ResurrectionRemix-Devices"
