@@ -70,9 +70,9 @@
   <project path="device/qcom/common" name="CyanogenMod/android_device_qcom_common" remote="github" revision="cm-12.1" />
   <project path="hardware/qcom/fm" name="CyanogenMod/android_hardware_qcom_fm" remote="github" revision="cm-12.1" />
 
-  <project path="kernel/NUBIA/NX404H" name="sattarvoybek/kernel_nubia_nx404h.git" remote="github" revision="cm-12.1" />
-  <project path="device/NUBIA/NX404H" name="sattarvoybek/device_nubia_nx404h.git" remote="github" revision="cm-12.1" />
-  <project path="vendor/NUBIA/NX404H" name="sattarvoybek/device_nubia_nx404h_proprietary.git" remote="github"revision="cm-12.1" />
+  <project path="kernel/NUBIA/NX404H" name="sattarvoybek/kernel_nubia_nx404h.git" remote="sattarvoybek" revision="cm-12.1" />
+  <project path="device/NUBIA/NX404H" name="sattarvoybek/device_nubia_nx404h.git" remote="sattarvoybek" revision="cm-12.1" />
+  <project path="vendor/NUBIA/NX404H" name="sattarvoybek/device_nubia_nx404h_proprietary.git" remote="sattarvoybek"revision="cm-12.1" />
 
 <!-- END RR -->
 
