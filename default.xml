@@ -64,11 +64,11 @@
   <project path="packages/services/ThemeManagerService" name="android_packages_services_ThemeManagerService" remote="rr" />
   <project path="packages/apps/PackageInstaller" name="android_packages_apps_PackageInstaller" remote="rr" />
   <project path="vendor/NUBIA/NX404H" name="device_nubia_nx404h_proprietary
-" remote="cm-12.1" />
+" remote="github" revision="cm-12.1" />
   <project path="kernel/NUBIA/NX404H" name="kernel_nubia_nx404h
-" remote="cm-12.1" />
+" remote="github" revision="cm-12.1" />
 	 <project path="device/NUBIA/NX404H" name="device_nubia_nx404h
-" remote="cm-12.1" />
+" remote="github" revision="cm-12.1" />
 <!-- END RR -->
 
 <!-- BEGIN CYANOGENMOD -->
